@@ -1,0 +1,22 @@
+{
+  "label": "Mobile detailing",
+  "lede": "Detailing at your home or office. Tell us what you drive and we'll send you a price.",
+  "servicesHeading": "Detailing we do",
+  "formPrompt": "What needs detailing?",
+  "colors": { "brand": "#1f2340", "accent": "#ffc53d" },
+  "services": {
+    "Exterior wash & wax": "Hand wash, wheels and tires, and a coat of wax.",
+    "Interior detail": "Vacuum, wipe-down, vents, glass and door jambs.",
+    "Full detail": "Inside and out in one visit.",
+    "Seat & carpet shampoo": "Stains and odors lifted from fabric and carpet.",
+    "Paint correction": "Swirls and light scratches polished out.",
+    "Ceramic coating": "Protective coating applied after the paint is polished.",
+    "Headlight restoration": "Yellowed, foggy lenses sanded and polished clear.",
+    "Boats & RVs": "Wash, wax and interior cleaning at the dock or the driveway."
+  },
+  "gallery": [
+    { "photo": "exterior", "caption": "Exterior wash" },
+    { "photo": "wheel", "caption": "Wheels and tires" },
+    { "photo": "headlight", "caption": "Headlight restoration" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "label": "Lawn care",
+  "lede": "Mowing, edging, trimming and cleanups for lawns and beds. Tell us about your yard and we'll send you a price.",
+  "servicesHeading": "Yard work we do",
+  "formPrompt": "What does your yard need?",
+  "colors": { "brand": "#28572b", "accent": "#f2c230" },
+  "services": {
+    "Mowing & edging": "Lawn cut, walks and driveway edged, clippings blown off.",
+    "Hedge & shrub trimming": "Hedges squared up and shrubs shaped.",
+    "Palm trimming": "Dead fronds and seed pods taken down and hauled away.",
+    "Mulch & rock": "Beds weeded and topped with fresh mulch, shell or stone.",
+    "Yard cleanups": "Overgrown lots, storm debris and leaves cleared out.",
+    "Sod & planting": "Dead patches replaced and new plants set in.",
+    "Weed control": "Weeds pulled or treated in lawns, beds and paver joints.",
+    "Irrigation checks": "Heads, zones and timers checked and adjusted."
+  },
+  "gallery": [
+    { "photo": "lawn", "caption": "Front lawn" },
+    { "photo": "edging", "caption": "Walkway edge" },
+    { "photo": "beds", "caption": "Planting bed" }
+  ]
+}

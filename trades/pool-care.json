@@ -1,0 +1,22 @@
+{
+  "label": "Pool care",
+  "lede": "Weekly cleaning, water chemistry and repairs for pools and spas. Tell us about your pool and we'll send you a price.",
+  "servicesHeading": "What we take care of",
+  "formPrompt": "What does your pool need?",
+  "colors": { "brand": "#06615f", "accent": "#ff8a5c" },
+  "services": {
+    "Weekly pool service": "Skim, brush, vacuum, empty the baskets and balance the water on a set day each week.",
+    "Green pool cleanup": "Algae cleared and the water brought back to blue.",
+    "Chemical balancing": "Chlorine, pH, alkalinity and stabilizer tested and adjusted.",
+    "Filter cleaning": "Cartridge and DE filters taken apart, cleaned and put back.",
+    "Equipment repair": "Pumps, heaters, salt cells and timers diagnosed and fixed.",
+    "Tile & waterline cleaning": "Calcium scale and the scum line scrubbed off the tile.",
+    "Spa service": "Spas and hot tubs cleaned and balanced along with the pool.",
+    "Seasonal care": "Regular checks on your pool while you're up north."
+  },
+  "gallery": [
+    { "photo": "green-pool", "caption": "Green pool cleanup" },
+    { "photo": "waterline", "caption": "Waterline tile" },
+    { "photo": "steps", "caption": "Pool steps" }
+  ]
+}

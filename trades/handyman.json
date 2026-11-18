@@ -1,0 +1,22 @@
+{
+  "label": "Handyman",
+  "lede": "Repairs, installs and the small jobs on your list. Tell us what needs doing and we'll send you a price.",
+  "servicesHeading": "Jobs we take on",
+  "formPrompt": "What needs doing?",
+  "colors": { "brand": "#22364f", "accent": "#f47b2a" },
+  "services": {
+    "Drywall repair": "Holes, cracks and water stains patched, textured and painted to match.",
+    "Painting & touch-ups": "Rooms, trim, doors and exterior spots.",
+    "Door & trim work": "Sticking doors, new locks, baseboards and casing.",
+    "Screen repair": "Lanai and window screens re-screened.",
+    "Fence & gate repair": "Boards replaced, posts reset and gates rehung.",
+    "Fixtures & fans": "Lights, ceiling fans, faucets and hardware installed.",
+    "TV mounting & assembly": "TVs, shelves and furniture put up level and solid.",
+    "Caulking & tile repair": "Tubs, showers and counters re-caulked, loose tile reset."
+  },
+  "gallery": [
+    { "photo": "drywall", "caption": "Drywall repair" },
+    { "photo": "fence", "caption": "Fence repair" },
+    { "photo": "screen", "caption": "Lanai screen" }
+  ]
+}

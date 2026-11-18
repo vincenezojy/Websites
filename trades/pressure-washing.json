@@ -1,0 +1,22 @@
+{
+  "label": "Pressure washing",
+  "lede": "Driveways, pavers, roofs, lanais and pool cages. Tell us what needs cleaning and we'll send you a price.",
+  "servicesHeading": "What we clean",
+  "formPrompt": "What needs cleaning?",
+  "colors": { "brand": "#0f5c7a", "accent": "#ffb81c" },
+  "services": {
+    "Driveways & pavers": "Tire marks, oil spots and the dark film a rainy season leaves behind.",
+    "Roof soft wash": "Low-pressure cleaning that lifts black streaks from tile and shingle roofs.",
+    "Lanais & pool cages": "Screens, frames and floors cleared of mildew, pollen and spider webs.",
+    "Pool decks": "Slippery algae and stains taken off pavers, travertine and concrete.",
+    "House wash": "Stucco, siding, soffits and gutters rinsed clean from the roofline down.",
+    "Paver sealing": "Joints re-sanded and pavers sealed once they're clean.",
+    "Fences & docks": "Wood, vinyl and composite brought back from gray and green.",
+    "Commercial": "Storefronts, sidewalks, drive-throughs and dumpster pads."
+  },
+  "gallery": [
+    { "photo": "driveway", "caption": "Paver driveway" },
+    { "photo": "roof", "caption": "Tile roof" },
+    { "photo": "pool-deck", "caption": "Pool deck" }
+  ]
+}

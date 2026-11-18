@@ -1,0 +1,30 @@
+{
+  "status": "demo",
+  "name": "Palmetto Demo Wash",
+  "trade": "pressure-washing",
+  "town": "Cape Coral",
+  "phone": "(239) 555-0142",
+  "services": [
+    "Driveways & pavers",
+    "Roof soft wash",
+    "Lanais & pool cages",
+    "Pool decks",
+    "House wash",
+    "Paver sealing"
+  ],
+  "reviews": {
+    "count": 48,
+    "rating": 4.9,
+    "source": "Google",
+    "sample": true,
+    "quotes": [
+      { "text": "The driveway looks like the day the pavers went in. Showed up when they said they would.", "name": "Sample customer, Cape Coral" },
+      { "text": "Roof and lanai done in one morning. Fair price and no mess left behind.", "name": "Sample customer, Fort Myers" },
+      { "text": "Our pool deck was slick with algae. Now the grandkids can run on it again.", "name": "Sample customer, North Fort Myers" }
+    ]
+  },
+  "colors": { "brand": "#0f5c7a", "accent": "#ffb81c" },
+  "freeQuotes": true,
+  "badges": ["Free estimates", "Licensed and insured"],
+  "hours": "Monday to Saturday, 8 am to 6 pm"
+}

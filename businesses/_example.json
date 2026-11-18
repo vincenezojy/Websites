@@ -1,0 +1,19 @@
+{
+  "status": "preview",
+  "name": "Business Name",
+  "trade": "pressure-washing",
+  "town": "Naples",
+  "phone": "(239) 555-0100",
+  "services": ["Driveways & pavers", "Roof soft wash", "House wash"],
+  "reviews": { "count": 0, "rating": 5.0, "source": "Google", "url": "" },
+  "colors": { "brand": "#0f5c7a", "accent": "#ffb81c" },
+
+  "freeQuotes": false,
+  "badges": [],
+  "since": "",
+  "hours": "",
+  "email": "",
+  "serviceArea": [],
+  "tagline": "",
+  "form": { "endpoint": "" }
+}
