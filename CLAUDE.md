@@ -1,8 +1,9 @@
 # Working in this repo
 
 This repo is Vince's website business: one template, one data file per
-business, deployed by Cloudflare Pages on every push to `main`. README.md has
-the field list and layout.
+business, deployed by Cloudflare on every push to `main` and live at
+https://websites.vincenzo15y.workers.dev. README.md has the field list and
+layout.
 
 ## Adding or changing a business
 

@@ -4,9 +4,9 @@ One master template for home-service businesses in Southwest Florida:
 pressure washing, pool care, lawn care, handyman and mobile detailing.
 
 Each business is one small file in `businesses/`. Every commit to `main`
-rebuilds the site on Cloudflare Pages, and each business gets its own link:
+rebuilds the site on Cloudflare, and each business gets its own link:
 
-    https://<project>.pages.dev/<file-name>/
+    https://websites.vincenzo15y.workers.dev/<file-name>/
 
 `businesses/palmetto-demo-wash.json` is a made-up business that shows the
 whole template.
@@ -86,20 +86,22 @@ a plain message when a business file has a mistake in it.
 
 `SITE=<file-name> node build.js` builds that one business at the root of the
 site, for a client's own domain. Use it as the build command of a second
-Cloudflare Pages project connected to this repo.
+Cloudflare project connected to this repo.
 
-## Cloudflare Pages settings
+## Cloudflare settings
+
+The site runs on Cloudflare as a Worker named `websites`, connected to this
+repo. It was set up in the Cloudflare dashboard, so the settings live there
+and not in this repo.
 
 | Setting | Value |
 | --- | --- |
-| Production branch | `main` |
-| Framework preset | None |
+| Branch | `main` |
 | Build command | `node build.js` |
-| Build output directory | `dist` |
+| Folder that gets published | `dist` |
 
-After the first deploy, put the project's address in `settings.json` as
-`baseUrl`. `previewContact` in the same file adds a line to the preview note,
-for example who to text about the page.
+`baseUrl` in `settings.json` is the live address. `previewContact` in the same
+file adds a line to the preview note, for example who to text about the page.
 
 ## What is where
 

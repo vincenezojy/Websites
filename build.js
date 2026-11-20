@@ -277,7 +277,7 @@ function main() {
     built.push(page);
   }
 
-  // Housekeeping pages. A 404 page also stops Cloudflare from treating the site as a single-page app.
+  // Housekeeping pages: a not-found page, and a plain front page that does not list the previews.
   fs.writeFileSync(path.join(OUT, '404.html'), renderPlain('Page not found', 'Check the link and try again.'));
   if (!single) {
     fs.writeFileSync(path.join(OUT, 'index.html'), renderPlain('Website previews', 'Each preview has its own link.'));
